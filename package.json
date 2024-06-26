@@ -1,7 +1,7 @@
 {
-    "name": "reguilded",
+    "name": "overguild",
     "version": "0.0.4-alpha.7",
-    "description": "ReGuilded is a client injector/client mod that allows you to extend the functionality of Guilded's client by providing theme and addon support.",
+    "description": "OverGuild is a client injector/client mod that allows you to extend the functionality of Guilded's client by providing theme and addon support.",
     "main": "",
     "type": "commonjs",
     "scripts": {
@@ -15,14 +15,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ReGuilded/ReGuilded.git"
+        "url": "git+https://github.com/exhausted-yami/OverGuild/ReGuilded.git"
     },
-    "author": "ReGuilded",
+    "author": "OverGuild",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ReGuilded/ReGuilded/issues"
+        "url": "https://github.com/exhausted-yami/OverGuild/issues"
     },
-    "homepage": "https://github.com/ReGuilded/ReGuilded#readme",
+    "homepage": "https://github.com/exhausted-yami/OverGuild/ReGuilded#readme",
     "dependencies": {
         "chmodr": "^1.2.0",
         "chokidar": "^3.5.2",
