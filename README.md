@@ -24,7 +24,7 @@ Currently Non Available
 
 ## Will you get banned for using OverGuild?
 
-OverGuild is not associated with Guilded in any capacity. We have sought permission, and waiting for Guilded to confirmed that it take no/any action towards using OverGuild. 
+OverGuild is not associated with Guilded in any capacity. We have looking into getting permission, and waiting for Guilded to confirmed that it take no/any action towards using OverGuild. 
 > Note However, abusing OverGuild using plugins or any other means to violate [Guilded TOU](https://support.guilded.gg/hc/en-us/articles/360039728313-Terms-of-Use) could result in your account being banned.
 
 **Be sure to also read [our license](https://github.com/OverGuild/OverGuild/blob/main/LICENSE).**
