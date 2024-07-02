@@ -9,6 +9,6 @@
 
 Contact an App Developer directly on Guilded.
 <br>
-<a href="https://guilded.gg/GuildMC">
+<a href="https://guilded.gg/OverGuild">
   <img src="https://img.shields.io/static/v1?label=Chat%20on&message=Guilded&color=F5C400" alt="Chat on Guilded" />
 </a>
