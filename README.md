@@ -3,8 +3,8 @@
   <a style="text-decoration:none" href="https://guilded.gg/OverGuild">
     <img src="https://img.shields.io/static/v1?label=Chat%20on&message=Guilded&style=flat-square&color=F5C400&logo=guilded&logoColor=white" alt="Chat on Guilded" />
   </a>
-  <a style="text-decoration:none" href="https://github.com/OverGuild/OverGuild/issues">
-    <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/OverGuild/OverGuild?style=flat-square">
+  <a style="text-decoration:none" href="https://github.com/exhausted-yami/OverGuild/issues">
+    <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/exhausted-yami/OverGuild?style=flat-square">
   </a>
   <a style="text-decoration:none" href="https://wakatime.com/badge/github/OverGuild/OverGuild">
     <img alt="WakaTime" src="https://wakatime.com/badge/github/OverGuild/OverGuild.svg">
