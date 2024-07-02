@@ -6,8 +6,8 @@
   <a style="text-decoration:none" href="https://github.com/exhausted-yami/OverGuild/issues">
     <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/exhausted-yami/OverGuild?style=flat-square">
   </a>
-  <a style="text-decoration:none" href="https://wakatime.com/badge/github/OverGuild/OverGuild">
-    <img alt="WakaTime" src="https://wakatime.com/badge/github/OverGuild/OverGuild.svg">
+  <a style="text-decoration:none" href="https://wakatime.com/badge/user/93ce9d23-40bd-42bc-8938-e94ba1d005cd/project/3b823344-d8a4-412c-8e24-45177c61480c">
+    <img alt="WakaTime" src="https://wakatime.com/badge/user/93ce9d23-40bd-42bc-8938-e94ba1d005cd/project/3b823344-d8a4-412c-8e24-45177c61480c">
   </a>
   <a style="text-decoration:none" href="https://guilded.gg/OverGuild">
     <img src="https://img.shields.io/static/v1?label=Looking%20for&message=Contributors&style=flat-square&color=orange" alt="Chat on Guilded" />
