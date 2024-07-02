@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReGuilded/ReGuilded/main/logo/banner.png" alt="ReGuilded Logo" />
+  <img src="https://raw.githubusercontent.com/exhausted-yami/OverGuild/main/logo/banner.png" alt="ReGuilded Logo" />
   <a style="text-decoration:none" href="https://guilded.gg/ReGuilded">
     <img src="https://img.shields.io/static/v1?label=Chat%20on&message=Guilded&style=flat-square&color=F5C400&logo=guilded&logoColor=white" alt="Chat on Guilded" />
   </a>
