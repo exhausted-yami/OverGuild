@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/exhausted-yami/OverGuild/main/logo/banner.png" alt="ReGuilded Logo" />
-  <a style="text-decoration:none" href="https://guilded.gg/ReGuilded">
+  <img src="https://raw.githubusercontent.com/exhausted-yami/OverGuild/main/logo/banner.png" alt="OverGuild Logo" />
+  <a style="text-decoration:none" href="https://guilded.gg/OverGuild">
     <img src="https://img.shields.io/static/v1?label=Chat%20on&message=Guilded&style=flat-square&color=F5C400&logo=guilded&logoColor=white" alt="Chat on Guilded" />
   </a>
-  <a style="text-decoration:none" href="https://github.com/ReGuilded/ReGuilded/issues">
-    <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/ReGuilded/ReGuilded?style=flat-square">
+  <a style="text-decoration:none" href="https://github.com/OverGuild/OverGuild/issues">
+    <img alt="Open Issues" src="https://img.shields.io/github/issues-raw/OverGuild/OverGuild?style=flat-square">
   </a>
-  <a style="text-decoration:none" href="https://wakatime.com/badge/github/ReGuilded/ReGuilded">
-    <img alt="WakaTime" src="https://wakatime.com/badge/github/ReGuilded/ReGuilded.svg">
+  <a style="text-decoration:none" href="https://wakatime.com/badge/github/OverGuild/OverGuild">
+    <img alt="WakaTime" src="https://wakatime.com/badge/github/OverGuild/OverGuild.svg">
   </a>
-  <a style="text-decoration:none" href="https://guilded.gg/ReGuilded">
+  <a style="text-decoration:none" href="https://guilded.gg/OverGuild">
     <img src="https://img.shields.io/static/v1?label=Looking%20for&message=Contributors&style=flat-square&color=orange" alt="Chat on Guilded" />
   </a>
 </p>
 
-**ReGuilded** is a client injector/client mod that allows you to extend the functionality of Guilded's client by providing theme and addon support.
+**OverGuild** is a client injector/client mod that allows you to extend the functionality of Guilded's client by providing theme and addon support.
 
-> **NOTE:** ReGuilded isn't fully stable and you may encounter some bugs or shortcomings. We are looking for more contributors working on ReGuilded.
+> **NOTE:** OverGuild isn't fully stable and you may encounter some bugs and/or shortcomings. We are always looking for more contributors to help work on OverGuild.
 
 ## Installation
 
-You can use the Easy Installer located on our [website](https://reguilded.dev/downloads).
-Alternatively, you can also download it from [github](https://github.com/reguilded/reguilded-setup/releases).
+Currently Non Available
 
-## Will you get banned for using ReGuilded?
+## Will you get banned for using OverGuild?
 
-ReGuilded is not associated with Guilded in any capacity. We have sought permission, and Guilded has confirmed that it will take no action using ReGuilded. However, abusing the mod using plugins or any other means to violate [Guilded TOU](https://support.guilded.gg/hc/en-us/articles/360039728313-Terms-of-Use) could result in your account being banned.
+OverGuild is not associated with Guilded in any capacity. We have sought permission, and waiting for Guilded to confirmed that it take no/any action towards using OverGuild. 
+> Note However, abusing OverGuild using plugins or any other means to violate [Guilded TOU](https://support.guilded.gg/hc/en-us/articles/360039728313-Terms-of-Use) could result in your account being banned.
 
-**Be sure to also read [our license](https://github.com/ReGuilded/ReGuilded/blob/main/LICENSE).**
+**Be sure to also read [our license](https://github.com/OverGuild/OverGuild/blob/main/LICENSE).**
 
 ## Contributing
 
-Pull requests and Issues are welcome. You may want to coordinate with us on our [Guilded Server](https://guilded.gg/ReGuilded) in advance.
+Pull requests and Issues are welcome. You may want to coordinate with us on our [Guilded Server](https://guilded.gg/OverGuild) in advance.
 
 You can get the project's dependencies by running `npm i` in the repositories' root folder.
 
@@ -39,15 +39,15 @@ Steps for testing:
 1. Run `npm run inject` - This will run `npm run build` and `npm run injectbare` which will automatically put the asar into the right folder.
 2. There are two ways to update this asar after injecting:
    1. Running `npm run inject` - This will build, then uninject and inject.
-   2. Copy the `reguilded.asar` in the `out` directory to one of the following directories.
-      1. Linux: `/user/local/share/ReGuilded`
-      2. Mac: `/Applications/ReGuilded`
-      3. Windows: `%PROGRAMFILES%/ReGuilded`
+   2. Copy the `OverGuild.asar` in the `out` directory to one of the following directories.
+      1. Linux: `/user/local/share/OverGuild`
+      2. Mac: `/Applications/OverGuild`
+      3. Windows: `%PROGRAMFILES%/OverGuild`
 3. After updating the asar file you can press CTRL/CMD + R while focused on Guilded and the changes you made will be loaded.
 
 ## Project Status
 
-As mentioned at the top of this document, ReGuilded is currently under active development and is not fully stable yet. Please leave suggestions and ideas in the Community Tab or our [Guilded Server](https://guilded.gg/ReGuilded). Contributions are welcome.
+As mentioned at the top of this document, OverGuild is currently under active development and is not fully stable yet. Please leave suggestions and ideas in the Community Tab or our [Guilded Server](https://guilded.gg/OverGuild). Contributions are welcome.
 
 ## Credits
 
@@ -55,4 +55,4 @@ Our Patcher code is influenced by [Powercord's Patcher Code](https://github.com/
 
 ## License
 
-ReGuilded is licensed under the [MPL 2.0](https://github.com/ReGuilded/ReGuilded/blob/main/LICENSE) license.
+OverGuild is licensed under the [MPL 2.0](https://github.com/OverGuild/OverGuild/blob/main/LICENSE) license.
